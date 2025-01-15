@@ -1,14 +1,14 @@
 package p4csw;
 
-import java.util.List;
 import java.util.Arrays;
+import java.util.List;
   
 public class App {
     public static void main(String[] args) {
         // Crear habilidades para cada campeón
         List<Habilidad> habilidades1 = Arrays.asList(
-            new Habilidad("La espada de los oscuros", 95, "daño"),
-            new Habilidad("Cadenas Infernales", 70, "daño"),
+            new Habilidad("La espada de los oscuros", 950, "daño"),
+            new Habilidad("Cadenas Infernales", 170, "daño"),
             new Habilidad("Deslizamiento Sombrio", 25, "daño"),
             new Habilidad("El aniquilador de Mundos", 300, "daño")
         );
