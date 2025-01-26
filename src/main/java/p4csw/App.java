@@ -7,8 +7,8 @@ public class App {
     public static void main(String[] args) {
         // Crear habilidades para cada campeón
         List<Habilidad> habilidades1 = Arrays.asList(
-            new Habilidad("La espada de los oscuros", 950, "daño"),
-            new Habilidad("Cadenas Infernales", 170, "daño"),
+            new Habilidad("La espada de los oscuros", 150, "daño"),
+            new Habilidad("Cadenas Infernales", 270, "daño"),
             new Habilidad("Deslizamiento Sombrio", 25, "daño"),
             new Habilidad("El aniquilador de Mundos", 300, "daño")
         );
